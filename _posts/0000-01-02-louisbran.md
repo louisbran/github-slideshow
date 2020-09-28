@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Is that a JoJo reference?!!
 Use the left arrow to go back!
